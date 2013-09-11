@@ -1,0 +1,7 @@
+# Tweet Queue
+
+Write and rank your tweets before posting them.
+
+## An online holding tank
+
+This works as a place to store your ideas for tweets. You can assign a number of stars to the tweets you've written, and when ready, post them twitter with 2 clicks.
